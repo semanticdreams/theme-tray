@@ -1,0 +1,9 @@
+[project]
+name = "theme-tray"
+version = "0.1.0"
+description = "Toggle dark/light system theme"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyside6>=6.10.0",
+]
