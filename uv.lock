@@ -63,7 +63,7 @@ wheels = [
 ]
 
 [[package]]
-name = "theme-toggle"
+name = "theme-tray"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
